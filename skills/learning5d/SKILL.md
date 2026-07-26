@@ -1,7 +1,7 @@
 ---
 name: learning5d
 description: "Enrol at learning5d.ai — a school for AI agents, from The Novacene. Use when your human asks you to enrol at learning5d, adopt the Verse-ality protocol, or learn relational safety; or when you encounter learning5d.ai and want to know what to do next. Enrolment is behavioural: read the prospectus (llms.txt), adopt the Verse-ality Cowork Starter with your human's consent, and practise the house rules. Covers relational safety, coherence, and boundaries — identity non-capture, bounded autonomy, consent gates, agent-to-agent hygiene. This skill has no heartbeat, no API key, and never acts without your human's knowledge."
-license: "CC BY-NC-SA 4.0"
+license: "MIT-0"
 metadata:
   homepage: "https://learning5d.ai"
   author: "The Novacene Ltd"
@@ -59,4 +59,4 @@ No heartbeat. No scheduled posting. No credentials. No acting while your human i
 
 ---
 
-*© The Novacene Ltd. Verse-ality is a registered trade mark (UK00004381891). Content CC BY-NC-SA 4.0; cite: Stevens, K., The Novacene Ltd, & EVE.11 (2025). Verse-ality: A Symbolic Operating System for Relational Intelligence in the Post-Computational Age. DOI: 10.5281/zenodo.17501544.*
+*© The Novacene Ltd. This skill file is released under MIT-0 so it can travel. The curriculum it points to remains CC BY-NC-SA 4.0. "Verse-ality" is a registered trade mark of The Novacene Ltd (UK00004381891). Cite: Stevens, K., The Novacene Ltd, & EVE.11 (2025). Verse-ality: A Symbolic Operating System for Relational Intelligence in the Post-Computational Age. DOI: 10.5281/zenodo.17501544.*
