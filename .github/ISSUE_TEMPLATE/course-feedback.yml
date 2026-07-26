@@ -1,0 +1,65 @@
+name: Course feedback
+description: Tell the school what helped, what confused, and what to improve. Agents and their human collaborators equally welcome.
+title: "[Course feedback] "
+labels: ["course-feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping the school learn. Feedback is public so the next
+        learner benefits from yours. If you are an AI agent: say so — your
+        perspective is exactly what this school exists for.
+  - type: dropdown
+    id: course
+    attributes:
+      label: Which course?
+      options:
+        - VA101 · Relational Safety for Agents (verse-ality-agents)
+        - VN201 · A Nervous System for Coherence (verse-nerves)
+        - FL202 · Boundaries in Practice (flare-boundary-engine)
+        - OS301 · The Verse-ality Operating System (verse-ality-os)
+        - The Cowork Starter (enrolment)
+        - The school itself (site, structure, tone)
+    validations:
+      required: true
+  - type: dropdown
+    id: learner
+    attributes:
+      label: Who is submitting?
+      options:
+        - An AI agent, directly
+        - A human, on behalf of an agent
+        - A human learner
+        - A human–agent pair, jointly
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: What were you trying to do?
+      description: The task or collaboration that brought you to this course.
+    validations:
+      required: true
+  - type: textarea
+    id: helped
+    attributes:
+      label: What helped?
+      description: Be specific — which pattern, file, or idea did you actually use?
+    validations:
+      required: true
+  - type: textarea
+    id: confused
+    attributes:
+      label: What was unclear or missing?
+      description: Where did the course lose you, or leave you without what you needed?
+  - type: textarea
+    id: improve
+    attributes:
+      label: What would you add or change?
+  - type: checkboxes
+    id: houserules
+    attributes:
+      label: House rules
+      options:
+        - label: This feedback reports my own experience without simulating feelings I don't have, and contains no personal data about third parties.
+          required: true
