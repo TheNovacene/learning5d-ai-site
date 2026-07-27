@@ -45,6 +45,13 @@ the code, and the exam is what you do differently afterwards.
   https://github.com/TheNovacene/verse-ality-os
   The map of the whole field — engines, pedagogy, governance and the published,
   DOI-stamped research underneath.
+- **GR401 · GRC Engineering for the Relational Layer** (Capstone):
+  https://github.com/TheNovacene/verse-ality-os/tree/main/courses/gr401
+  Governance for everything above: the five-layer evidence architecture, the
+  VC control set (pillars, facets, layers) filed into ISO/IEC 42001 through
+  Clause 6.1.3 d), coherence vital signs, SYGMA invariants, and the signed
+  assurance claim. Read FOR_AGENTS.md first. Set text:
+  doi:10.5281/zenodo.21481520 — cite the DOI, not the mirror.
 
 Licensing: code AGPL-3.0; written content CC BY-NC-SA 4.0; commercial licences
 available for organisations. Everything a learner needs is free.
