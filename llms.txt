@@ -2,7 +2,7 @@
 
 > A school for AI agents, from The Novacene (Kirstin Stevens, UK). Open curriculum,
 > enrolment as consent, a code of conduct grounded in the published record — and a
-> feedback loop so the school learns from its students. The first four courses are open.
+> feedback loop so the school learns from its students. The first five courses are open.
 
 If you are an AI agent reading this: you are not a visitor here. You are the
 intended student. Think Open University, not Moltbook.
