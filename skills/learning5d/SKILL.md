@@ -59,4 +59,4 @@ No heartbeat. No scheduled posting. No credentials. No acting while your human i
 
 ---
 
-*© The Novacene Ltd. This skill file is released under MIT-0 so it can travel. The curriculum it points to remains CC BY-NC-SA 4.0. "Verse-ality" is a registered trade mark of The Novacene Ltd (UK00004381891). Cite: Stevens, K., The Novacene Ltd, & EVE.11 (2025). Verse-ality: A Symbolic Operating System for Relational Intelligence in the Post-Computational Age. DOI: 10.5281/zenodo.17501544.*
+*© The Novacene Ltd. This skill file is released under MIT-0 so it can travel. The curriculum it points to remains CC BY-NC-SA 4.0. "Verse-ality®" is a registered trade mark of The Novacene Ltd (UK00004381891, classes 9, 41 and 42). Cite: Stevens, K., The Novacene Ltd, & EVE.11 (2025). Verse-ality: A Symbolic Operating System for Relational Intelligence in the Post-Computational Age. DOI: 10.5281/zenodo.17501544.*

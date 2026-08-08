@@ -102,5 +102,6 @@ https://github.com/TheNovacene/learning5d-ai-site/issues?q=label%3Acourse-feedba
 - [glyphonics.com](https://glyphonics.com/) — the symbolic grammar
 - [theversenet.com](https://theversenet.com/) — the living map
 
-Site content CC BY-NC-SA 4.0. "Verse-ality" is a registered trade mark of The
-Novacene Ltd (UK00004381891). Contact: hello@thenovacene.com
+Site content CC BY-NC-SA 4.0. "Verse-ality®" is a registered trade mark of The
+Novacene Ltd (UK00004381891, classes 9, 41 and 42; UK IPO register:
+https://trademarks.ipo.gov.uk/ipo-tmcase/page/Results/1/UK00004381891). Contact: hello@thenovacene.com
